@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshot and the Walkthrough Video](#screenshot-and-the-walkthrough-video)
+- [Walkthrough Video](#walkthrough-video)
 - [Teachologies Used](#technologies-used)
 - [License](#license)
 - [Contact Me](#contact-me)
@@ -34,11 +34,9 @@ or
 npm run start
 ```
 
-### Screenshot and the Walkthrough Video
+### Walkthrough Video
 
-![screenshot]()
-<br />
-Download the walkthrough video [here]()
+Download the walkthrough video [here](https://drive.google.com/file/d/1arX1CqFuVLAtMB_3-t6KSPwA7ZWG3_X7/view?usp=sharing)
 
 ### Technologies Used
 
